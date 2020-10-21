@@ -1,0 +1,1 @@
+I made the first step, but I spent a lot of time today playing around with the functionality of the testing units, setting up C etc. Tomorrow, I will get cracking on most of the code 9/22/2015 --Jason Lee
